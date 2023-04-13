@@ -1,4 +1,4 @@
-> [Download](https://github.com/Noxius-TM/Noxius-File-Stealer)
+> [More Info](https://docs.projectnoxius.xyz/posts/noxius-file-stealer)
 
 
 > This program is made entirely for educational purposes and Noxius is not responsible for the damage caused or the use that users give it.
